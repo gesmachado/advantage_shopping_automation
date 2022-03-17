@@ -1,0 +1,16 @@
+{
+  "accountType": "_accountType",
+  "address": "_address",
+  "allowOffersPromotion": _allowOffersPromotion,
+  "aobUser": _aobUser,
+  "cityName": "_cityName",
+  "country": "_country",
+  "email": "_email",
+  "firstName": "_firstName",
+  "lastName": "_lastName",
+  "loginName": "_loginName",
+  "password": "_password",
+  "phoneNumber": "_phoneNumber",
+  "stateProvince": "_stateProvince",
+  "zipcode": "_zipcode"
+}
