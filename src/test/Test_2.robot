@@ -6,6 +6,6 @@ Resource  ../resource/order/ky_order.robot
 
 *** Test Cases ***
 Teste 2 - Login incorreto
-  Que estou autenticando com usuário inválido    user=${usuario_invalifo}
+  Que estou autenticando com usuário inválido    user=${usuario_invalido}
 
 *** Keywords ***
